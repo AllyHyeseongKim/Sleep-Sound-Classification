@@ -3,7 +3,6 @@ This model is a sleep sound classification with LEAF (Google).
 
 
 ## Reference
-If you use this repository, please consider citing:
 
 ```
 @article{zeghidour2021leaf,
@@ -13,5 +12,3 @@ If you use this repository, please consider citing:
   year={2021}
 }
 ```
-
-Note that this is not an officially supported Google product.
